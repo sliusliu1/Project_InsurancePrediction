@@ -1,5 +1,5 @@
 # Projects
-![TableauDashboard!]((https://github.com/sliusliu1/Projects/blob/main/Screen%20Shot%202024-02-20%20at%2011.13.00%20AM.png))
+![TableauDashboard!](https://github.com/sliusliu1/Projects/blob/main/Screen%20Shot%202024-02-20%20at%2011.13.00%20AM.png)
 ![Cocacola!](https://github.com/sliusliu1/Projects/blob/main/Screen%20Shot%202024-01-31%20at%202.46.33%20PM.png)
 ![DashBoard!](https://github.com/sliusliu1/Projects/assets/115814258/00771a03-1048-47f6-9212-889084f1f229)
 ![AutomateTableOfContent!](https://github.com/sliusliu1/Projects/assets/115814258/d0f61bbe-8bdc-4e26-afca-cbc66da45499)
